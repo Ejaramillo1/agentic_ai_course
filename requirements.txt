@@ -9,6 +9,7 @@ qrcode
 tavily-python>=0.7.12
 textstat
 vertexai
+aisuite
 
 # === Web Framework + API ===
 fastapi
